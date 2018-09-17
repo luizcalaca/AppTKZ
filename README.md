@@ -1,8 +1,8 @@
 # AppTKZ
 Initial App with Ionic
 
-Alguns comandos importantes: 
+## Alguns comandos importantes: 
 
-ionic start AppTKZ sidemenu
-ionic serve
+ionic start AppTKZ sidemenu <br/>
+ionic serve<br/>
 ionic cordova run android -lc
